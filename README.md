@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg)]
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)]
 <h1 align="center">Hi 👋, I'm Chandhana Kothuri</h1>
 <h3 align="center">I am a computer science student passionate about learning and exploring new technologies.</h3>
 <img align="right" alt="coding width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300&vertical=top">
