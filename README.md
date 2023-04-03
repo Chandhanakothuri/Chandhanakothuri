@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML and CSS**
 
-- 💬 Ask me about **C and Python **
+- 💬 Ask me about **C and Python**
 
 - 📫 How to reach me **chandhanakothuri@gmail.com**
 
