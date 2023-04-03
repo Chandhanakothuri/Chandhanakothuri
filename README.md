@@ -3,11 +3,11 @@
 <h3 align="center">I am a computer science student passionate about learning and exploring new technologies.</h3>
 <img align="right" alt="coding width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300&vertical=top">
 
-- 🔭 I’m currently working on **python**
+- 🔭 I’m currently working on **Java**
 
 - 🌱 I’m currently learning **HTML and CSS**
 
-- 💬 Ask me about **c and java**
+- 💬 Ask me about **C and Python **
 
 - 📫 How to reach me **chandhanakothuri@gmail.com**
 
